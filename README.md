@@ -1,18 +1,22 @@
+stackoverflow
+==============
+
 Small project using morris charting library which shows visualizations on data scraped from stackoverflow. 
 
 Steps
+==============
 
-1. Scrape the data and put them in the corresponding files under ./topic_data.
+- Scrape the data and put them in the corresponding files under ./topic_data.
 
-2. Run the ./utils/dump_data.sh to push the data into the database, this will also extract the data into a seed file.
+- Run the ./utils/dump_data.sh to push the data into the database, this will also extract the data into a seed file.
    cmd: sh ./utils/dump_data.sh
 
-3. Start a server.
+- Start a server.
    cmd: python -m SimpleHTTPServer
 
-4. Run the ./init.sh to extract the metrics and dump them is json files.
+- Run the ./init.sh to extract the metrics and dump them is json files.
    cmd: sh ./init.sh
 
-5. Open a browser and type in the url http://localhost:8000/index.html to see the metrics.
+- Open a browser and type in the url http://localhost:8000/index.html to see the metrics.
 
 The scripts for data generation have been written in ruby.
