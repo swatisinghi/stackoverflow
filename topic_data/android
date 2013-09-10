@@ -1,0 +1,100 @@
+1163,0,9,272,0,0,Difference between px dp dip and sp in Android?
+1126,0,14,185,0,0,“Debug certificate expired” error in Eclipse Android plugins
+1099,0,8,144,0,0,Proper use cases for Android UserManager.isUserAGoat()?
+883,51,0,305,0,0,Slow Android emulator
+705,0,25,259,0,0,Close/hide the Android Soft Keyboard
+696,0,19,186,0,0,Is there any way to run Python on Android?
+648,0,14,245,0,0,Saving Activity state in Android
+645,34,0,215,0,0,Android SDK installation doesnt find JDK
+634,0,21,263,0,0,How do I do a lazy load of images in ListView
+548,0,25,116,0,0,Stop EditText from gaining focus at Activity startup
+529,0,7,111,0,0,Must Override a Superclass Method\' Errors after importing a project into Eclipse
+496,17,0,111,0,0,Best practices for unit testing Android apps [closed]
+485,0,12,224,0,0,Android - basic gesture detection
+468,0,22,224,0,0,Is there a unique Android device ID?
+444,0,22,326,0,0,How to get screen dimensions
+444,0,17,174,0,0,Activity restart on rotation Android
+436,0,49,245,0,0,“Conversion to Dalvik format failed with error 1” on external JAR
+414,0,30,124,0,0,Quitting an application - is that frowned upon?
+409,0,13,142,0,0,Any good graphing packages for Android? [closed]
+387,0,70,401,0,0,R cannot be resolved - Android error
+374,0,16,0,87,0,How to rotate the Android emulator display?
+356,0,24,113,0,0,Android error: Failed to install *.apk on device *: timeout
+336,0,8,196,0,0,Standard Android Button with a different color
+333,0,32,224,0,0,Strange out of memory issue while loading an image to a Bitmap object
+332,0,8,148,0,0,Where can I browse Android source code on-line? [closed]
+327,0,20,225,0,0,How do I center text horizontally and vertical in a TextView in Android?
+325,0,6,131,0,0,How to discover memory usage of my application in Android
+308,20,0,0,95,0,How do I obtain crash-data from my Android application?
+293,0,6,135,0,0,How to create an AVD for Android 4.0
+290,0,21,139,0,0,How to handle screen orientation change when progress dialog and background thread active?
+289,0,20,115,0,0,Activity has leaked window that was originally added
+283,0,13,129,0,0,What is the simplest and most robust way to get the users current location in Android?
+283,0,4,0,61,0,what is the difference between match_parent and fill_parent property in android
+282,0,8,0,71,0,How to ship an Android application with a database?
+280,0,11,152,0,0,Android: How to declare global variables?
+278,0,22,243,0,0,How to call SOAP web service in Android
+270,0,10,172,0,0,android.os.NetworkOnMainThreadException
+260,0,11,146,0,0,Android - disable landscape mode?
+252,0,9,148,0,0,decompiling DEX into Java sourcecode
+243,0,13,182,0,0,How to hide the title bar for an Activity in XML with existing custom theme 
+242,0,4,0,63,0,Navigation Drawer (Google+ vs. YouTube)
+238,0,30,128,0,0,Failed to allocate memory: 8
+236,0,5,111,0,0,Download a file with Android and showing the progress in a ProgressDialog
+234,0,7,101,0,0,Android - gravity and layout_gravity
+231,0,15,0,92,0,What is Context in Android?
+229,0,13,137,0,0,Does Android support near real time push notification
+227,0,4,0,44,0,Background ListView becomes black when scrolling
+227,0,7,0,20,0,What are your experiences selling on the Android Market? [closed]
+221,0,10,104,0,0,How to align views at the bottom of the screen?
+216,0,22,0,18,0,How to avoid reverse engineering of an APK file?
+211,0,7,136,0,0,Android: Getting source code from an APK file
+210,0,4,0,45,0,Unexpected value from nativeGetEnabledTags: 0
+208,0,7,137,0,0,How can I open a URL in Androids web browser from my application?
+206,0,7,0,85,0,Is it possible to have multiple styles inside a TextView?
+205,30,0,0,92,0,Solution: Android INSTALL_FAILED_INSUFFICIENT_STORAGE error
+203,0,15,0,92,0,android: check if a service is running
+201,0,9,177,0,0,Android: combining text &amp; image on a Button or ImageButton
+196,0,11,108,0,0,The Android emulator is not starting showing “invalid command-line parameter”
+196,0,19,0,64,0,Auto Scale TextView Text to Fit within Bounds
+194,17,0,0,76,0,How do I display the current value of an Android Preference in the Preference summary?
+192,0,19,142,0,0,How to check internet access on Android? InetAddress never timeouts
+190,0,8,169,0,0,Static Way to get Context on android?
+188,0,5,0,66,0,Declaring a custom android UI element using XML
+186,7,0,0,90,0,Example: Communication between Activity and Service using Messaging
+184,23,0,0,84,0,Android Facebook style slide
+182,0,12,120,0,0,Android requires compiler compliance level 5.0 or 6.0. Found 1.7\' instead. Please use Android Tools &gt; Fix Project Properties
+180,0,8,0,89,0,How to create Transparent Activity in Android?
+175,0,9,117,0,0,How to convert a Drawable to a Bitmap?
+175,0,9,0,28,0,Effective Android Programming Techniques [closed]
+169,0,10,0,86,0,Android: Sending an Intent to Browser to open specific URL
+169,0,17,0,41,0,Any good ORM tools for Android development? [closed]
+169,0,6,0,51,0,Android - whats the difference between the various methods to get a Context?
+168,0,10,198,0,0,How to build .apk file?
+166,0,11,128,0,0,Sending Email in Android using JavaMail API without using the default/built-in app
+166,0,8,0,33,0,Can The Android drawable directory contain subdirectories?
+165,0,1,103,0,0,What permission do I need to access Internet from an android application?
+163,0,14,187,0,0,Android get current time and date
+163,0,7,130,0,0,Using Application context everywhere?
+160,0,6,0,35,0,Android emulator doesnt take keyboard input - SDK tools rev 20
+160,0,27,0,73,0,ADT requires org.eclipse.wst.sse.core 0.0.0\' but it could not be found
+159,1,0,0,34,0,Get application version programatically in android
+157,8,0,0,42,0,Scala Programming for Android
+154,0,2,0,29,0,Whats “tools:context” in Android layout files?
+152,0,4,217,0,0,How do I get the current GPS location programmatically in Android?
+151,0,4,0,43,0,What are the best practices for SQLite on Android?
+150,0,12,122,0,0,How do I pass data between activities in Android?
+150,0,17,0,42,0,Android Studio installation on Windows 7 fails no JDK found
+150,0,21,161,0,0,What is the best IDE to develop Android apps in? [closed]
+149,0,3,0,83,0,How to set HttpResponse timeout for Android in Java
+148,0,6,0,82,0,How to pick an image from gallery (SD Card) for my app in Android?
+147,0,16,0,71,0,How do I make links in a TextView clickable?
+147,8,0,109,0,0,How can I use external JARs in an Android project?
+147,0,14,120,0,0,How to send an object from one Android Activity to another using Intents?
+146,0,7,0,66,0,What does android:layout_weight mean?
+146,0,13,0,70,0,Switching to landscape mode in Android Emulator
+146,0,4,0,35,0,CharSequence VS String in Java?
+145,0,5,0,55,0,Android Min SDK Version vs. Target SDK Version
+144,0,18,177,0,0,How can I connect to Android with ADB over TCP?
+144,0,20,135,0,0,Write applications in C or C++ for Android? [closed]
+143,0,13,106,0,0,Making TextView Scrollable in Android

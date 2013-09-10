@@ -1,0 +1,100 @@
+1330,0,36,796,0,0,RegEx match open tags except XHTML self-contained tags
+1219,40,0,686,0,0,Href attribute for JavaScript links: “#” or “javascript:void(0)”?
+861,0,8,264,0,0,Change an inputs HTML5 placeholder color with CSS
+756,0,19,654,0,0,How to center a div in a div - horizontally?
+658,0,16,627,0,0,CSS: semi-transparent background but not text
+567,0,4,0,64,0,Why does HTML think “chucknorris” is a color?
+551,0,18,158,0,0,How do you disable browser Autocomplete on web form field / input tag?
+548,0,28,265,0,0,How to align checkboxes and their labels consistently cross-browsers
+500,0,25,0,87,0,When to use IMG vs. CSS background-image?
+470,0,12,355,0,0,jQuery document.createElement equivalent?
+462,0,18,0,97,0,What are valid values for the id attribute in HTML?
+418,0,7,145,0,0,&lt;button&gt; vs. &lt;input type=“button” /&gt;. Which to use?
+404,0,8,0,37,0,Why dont self-closing script tags work?
+367,0,15,124,0,0,When is a CDATA section necessary within a script tag?
+363,0,10,232,0,0,HTML 5: Is it &lt;br&gt; &lt;br/&gt; or &lt;br /&gt;?
+353,0,6,211,0,0,How to move an element into another element?
+352,0,17,230,0,0,Using jQuery to center a DIV on the screen
+351,0,26,194,0,0,Convert HTML + CSS to PDF with PHP?
+328,0,14,156,0,0,Modify the URL without reloading the page
+328,0,18,363,0,0,Recommended way to embed PDF in HTML? [closed]
+286,0,14,225,0,0,What is the best HTML editor for Eclipse? [closed]
+283,0,41,390,0,0,How to allow only numeric (0-9) in HTML  inputbox using jQuery?
+278,0,24,179,0,0,Simulators/emulators for mobile browser testing?
+270,0,19,0,46,0,Frame Buster Buster … buster code needed
+267,0,11,226,0,0,Remove border from IFrame
+265,15,0,365,0,0,How to apply CSS to iFrame?
+259,0,17,167,0,0,Make a div fill the remaining screen space
+255,0,31,159,0,0,How to detect if JavaScript is disabled?
+253,0,15,177,0,0,Invoking javascript in iframe from parent page
+247,0,14,318,0,0,Stretch and scale CSS background
+242,0,10,224,0,0,Need a unordered list without any bullets
+241,0,16,379,0,0,How to style a &lt;select&gt; dropdown with CSS only without JavaScript?
+241,3,0,104,0,0,How to use HTML Agility pack
+238,0,21,0,59,0,Determining a web users time zone
+234,0,13,142,0,0,jQuery Set Cursor Position in Text Area
+232,0,22,199,0,0,Auto detect mobile browser (via user-agent?)
+228,0,12,119,0,0,HTML Anchors with name\' or \'id\'?
+227,0,9,185,0,0,ASCII character for up/down triangle (arrow) to display in HTML
+227,0,10,0,16,0,Can you provide some examples of why it is hard to parse XML and HTML with a regex?
+226,0,11,254,0,0,HTML/CSS positioning “float: bottom”
+225,0,23,0,99,0,How do you handle multiple submit buttons in ASP.NET MVC Framework?
+224,0,15,444,0,0,Change the image source using jQuery
+220,0,2,0,26,0,Why do browsers match CSS selectors from right to left?
+210,15,0,258,0,0,Space between two rows in a table?
+206,0,41,0,58,0,Options for HTML scraping?
+205,21,0,0,0,6,Are fluid websites worth making anymore?
+195,32,0,157,0,0,Can HTML checkboxes be set to readonly?
+194,17,0,150,0,0,Word-wrap in a html table
+194,0,8,0,21,0,Is it valid to replace http:// with // in a &lt;script src=“http://…”&gt;?
+191,0,5,0,71,0,How to disable resizable property of TextArea?
+188,0,9,110,0,0,Get Class List for Element with jQuery
+185,0,14,0,95,0,Is there a W3C valid way to disable autocomplete in a HTML form?
+181,0,11,0,94,0,How to mark-up phone numbers?
+176,0,3,217,0,0,How can I select an element by name with JQuery?
+175,0,10,137,0,0,What is the most efficient way to create HTML elements using jQuery?
+168,0,6,0,0,6,Is it possible to make a div 50px less than 100% in CSS3?
+167,0,5,0,0,6,How does this CSS produce a circle?
+167,15,0,198,0,0,Google Maps API v3: How to remove all markers?
+166,0,11,161,0,0,Submitting a form on Enter\' with jQuery?
+166,0,13,158,0,0,How to write a:hover in inline CSS?
+165,0,10,128,0,0,How can I make a TextArea 100% width without overflowing when padding is present in CSS?
+159,17,0,181,0,0,Make a div into a link
+155,0,13,0,38,0,How to remove the space between inline-block elements?
+152,0,11,0,27,0,Is it recommended to use the &lt;base&gt; html tag?
+151,0,9,276,0,0,How to send HTTP request in java?
+148,0,7,256,0,0,CSS fixed width in a span
+148,0,13,0,50,0,jQuery/Javascript to replace broken images
+147,0,18,222,0,0,How to add some non-standard font to a website?
+145,0,8,0,58,0,Difference between id and name attributes in HTML
+143,0,10,0,26,0,Can we have multiple &lt;tbody&gt; in same &lt;table&gt;?
+143,0,5,0,73,0,Using relative URL in CSS file what location is it relative to?
+143,0,20,0,52,0,How to store arbitrary data for some HTML tags
+142,0,12,0,15,0,Custom attributes - Yea or nay?
+141,0,10,0,45,0,Multiple line code example in Javadoc comment
+141,0,0,0,46,0,Robust and Mature HTML Parser for PHP [duplicate]
+140,0,13,334,0,0,How to align a &lt;div&gt; to the middle of the page
+140,0,8,201,0,0,vertical alignment of elements in a div
+139,0,17,0,44,0,Whats the difference between &lt;b&gt; and &lt;strong&gt; &lt;i&gt; and &lt;em&gt;?
+137,0,14,219,0,0,How to get the value of a selected radio button using its name in jQuery?
+136,0,3,0,63,0,How to display HTML in TextView?
+135,12,0,148,0,0,Retrieve the position (XY) of an HTML element
+133,0,20,118,0,0,Strip HTML from Text JavaScript
+133,0,6,0,29,0,How do I wrap text in a pre tag?
+132,0,13,0,0,6,Isnt it silly that a tiny favicon requires yet another HTTP request? How to make favicon go into a sprite?
+131,0,4,107,0,0,Scroll to bottom of div?
+130,0,2,0,10,0,How do Google+ +1 widgets break out of their iframe?
+129,0,19,130,0,0,Removing HTML from a Java String
+126,0,7,0,36,0,Are self-closing tags valid in HTML5?
+125,13,0,134,0,0,Make div 100% height of browser window
+125,0,9,0,92,0,Auto-size dynamic text to fill fixed size container
+124,0,49,0,51,0,Whats the best way to separate PHP Code and HTML? [closed]
+123,0,7,0,46,0,Where is the best place to put &lt;script&gt; tags in HTML markup?
+122,0,10,0,47,0,Expand div to take remaining width
+121,0,7,145,0,0,Disable a link using css
+120,0,24,0,41,0,Is either GET or POST more secure than the other?
+120,15,0,0,73,0,Clearing &lt;input type=file\' /&gt; using jQuery
+120,20,0,125,0,0,Convert HTML to PDF in .NET [closed]
+118,0,21,133,0,0,In JavaScript can I make a “click” event fire programmatically for a file input element?
+115,0,14,0,0,6,Why is it a bad practice to return generated HTML instead of JSON? Or is it?
+115,0,14,0,47,0,How do you overcome the html form nesting limitation

@@ -1,0 +1,100 @@
+1056,0,32,169,0,0,Whats the difference between String and string?
+906,0,16,185,0,0,How do I enumerate an enum?
+675,0,11,155,0,0,Case insensitive Contains(string)\'
+666,0,5,0,45,0,Is there a reason for C#s reuse of the variable in a foreach?
+651,0,28,0,61,0,How do I calculate relative time?
+609,0,10,253,0,0,Cast int to enum in C#
+595,0,20,134,0,0,Best way to parse command line arguments in C#? [closed]
+592,0,37,136,0,0,How do I calculate someones age
+573,0,3,0,41,0,\d is less efficient than [0-9]
+572,0,5,0,53,0,What are the correct version numbers for C#?
+540,0,17,271,0,0,Deep cloning objects in C#
+527,0,6,0,38,0,Should Usings be inside or outside the namespace
+524,0,10,142,0,0,What is the difference between Decimal Float and Double in C#?
+521,0,5,0,20,0,Try-catch speeding up my code?
+505,0,36,343,0,0,Create Excel (.XLS and .XLSX) file from C# [closed]
+495,0,22,290,0,0,.NET String to byte Array C#
+455,0,12,0,94,0,Catch multiple Exceptions at once?
+412,0,14,147,0,0,How do you give a C# Auto-Property a default value?
+411,17,0,0,58,0,When to use struct in C#?
+404,0,13,184,0,0,Why is Dictionary preferred over hashtable?
+397,0,20,0,88,0,What C# mocking framework to use? [closed]
+387,0,11,0,40,0,Virtual member call in a constructor
+382,33,0,0,45,0,Most Useful Attributes [closed]
+345,0,10,0,59,0,What do two question marks together mean in C#?
+344,0,9,0,76,0,Why is it important to override GetHashCode when Equals method is overridden?
+338,0,17,0,49,0,Path.Combine for Urls?
+321,0,11,256,0,0,LINQ query on a DataTable
+320,0,26,198,0,0,How do you convert Byte Array to Hexadecimal String and vice versa?
+317,0,10,192,0,0,What is the best way to iterate over a Dictionary in C#?
+312,0,6,0,58,0,C#: Static readonly vs const
+312,14,0,0,65,0,What NoSQL solutions are out there for .NET? [closed]
+310,0,16,0,55,0,Proper use of the IDisposable interface
+302,0,4,0,10,0,If strings are immutable in .NET then why does Substring take O(n) time?
+292,0,3,0,0,5,.NET JIT potential error?
+291,0,4,177,0,0,Calling base constructor in c#
+291,0,10,0,79,0,What additional configuration\' is necessary to reference a .NET 2.0 mixed mode assembly in a .NET 4.0 project?
+288,0,4,106,0,0,File Upload ASP.NET MVC 3.0
+284,0,10,148,0,0,Sending email in .NET through Gmail
+282,0,14,193,0,0,How do you sort a C# dictionary by value?
+281,0,26,180,0,0,C# String enums
+277,0,22,0,48,0,What is the difference between const and readonly?
+275,0,21,0,15,0,Abuse of C# lambda expressions or Syntax brilliance?
+272,0,15,128,0,0,Dynamic LINQ OrderBy on IEnumerable&lt;T&gt;
+269,0,15,0,69,0,Create Generic method constraining T to an Enum
+266,0,24,0,96,0,How to properly clean up Excel interop objects
+264,0,0,0,57,0,String vs string in C# [duplicate]
+261,0,8,0,65,0,decimal vs double! - Which one should I use and when? [duplicate]
+261,0,4,0,58,0,How to escape brackets (curly braces) in a format string in .Net
+261,0,6,0,0,8,Curious null-coalescing operator custom implicit conversion behaviour
+256,0,13,0,18,0,Why is the C# “as” operator so popular? [closed]
+255,0,8,0,80,0,Can You Loop Through All Enum Values? [duplicate]
+253,0,23,110,0,0,MetadataException: Unable to load the specified metadata resource
+248,0,12,0,89,0,Best way to copy between two Stream instances
+247,0,13,0,20,0,Is DateTime.Now the best way to measure a functions performance?
+247,0,12,0,57,0,Proper Use of yield return
+246,0,13,0,0,6,Why must we define both == and != in C#?
+242,0,61,0,19,0,What is the worst gotcha in C# or .NET?
+241,3,0,104,0,0,How to use HTML Agility pack
+237,0,14,174,0,0,Get int value from enum
+237,0,7,208,0,0,How does one parse XML files? [closed]
+235,0,13,0,23,0,How to decide between MonoTouch and Objective-C?
+232,0,22,153,0,0,How to update the GUI from another thread in C#?
+229,0,13,0,13,0,When setting a forms opacity should I use a decimal or double?
+228,0,16,0,27,0,Expression Versus Statement
+227,0,7,0,27,0,Returning IEnumerable&lt;T&gt; vs IQueryable&lt;T&gt;
+226,0,9,0,32,0,Volatile vs. Interlocked vs. lock
+223,0,46,0,19,0,What are the pros and cons to keeping SQL in Stored Procs versus Code
+220,0,16,0,59,0,How to check if a number is a power of 2
+215,0,22,0,85,0,Best Free Controls for .NET [closed]
+215,19,0,0,51,0,NUnit vs Visual Studio 2008s Test Projects for Unit Testing? [closed]
+213,9,0,225,0,0,How to get the URL of the current page in C# [duplicate]
+213,0,10,0,46,0,C# Interfaces. Implicit implementation versus Explicit implementation
+209,0,10,0,69,0,Enum Flags Attribute
+208,0,12,194,0,0,How can I get the applications path in .NET in a console app?
+206,0,8,107,0,0,C# Set collection?
+202,7,0,0,97,0,How to enable assembly bind failure logging (Fusion) in .NET
+199,0,8,144,0,0,Creating a byte array from a stream
+198,0,11,103,0,0,What is the difference between an abstract function and a virtual function?
+198,0,20,120,0,0,How would you count occurrences of a string within a string (C#)?
+198,0,14,0,50,0,Which .NET Dependency Injection frameworks are worth looking into? [closed]
+198,0,7,0,22,0,What are the true benefits of ExpandoObject?
+197,0,3,0,15,0,How is Math.Pow() implemented in .Net Framework?
+197,0,16,0,94,0,Creating a comma separated list from IList&lt;string&gt; or IEnumerable&lt;string&gt;
+197,0,6,0,0,8,What is the purpose of a stack? Why do we need it? (MSIL)
+196,0,9,0,65,0,Distinct() with lambda?
+196,0,12,107,0,0,Is there a way to check if a file is in use?
+194,0,16,0,79,0,Simple 2 way encryption for C#
+192,0,10,109,0,0,When to Use Static Classes in C#
+190,0,15,0,75,0,Deserialize JSON into C# dynamic object?
+190,0,9,0,76,0,Type Checking: typeof GetType or is?
+189,0,7,204,0,0,C# List&lt;&gt; OrderBy Alphabetical Order
+187,0,17,164,0,0,How do I get the path of the assembly the code is in?
+187,0,13,0,16,0,What are the differences between Generics in C# and Java… and Templates in C++?
+187,0,2,0,88,0,System.Timers.Timer vs System.Threading.Timer
+187,9,0,0,95,0,Repository pattern tutorial in C# [closed]
+186,11,0,146,0,0,Validate a username and password against Active Directory?
+186,0,34,0,77,0,C# int or Int32? Should I care?
+184,0,16,108,0,0,jQuery UI Dialog with ASP.NET button postback
+183,0,9,172,0,0,How To: Execute command line in C# get STD OUT results
+181,15,0,0,11,0,byte + byte = int… why?

@@ -1,0 +1,100 @@
+1810,0,28,257,0,0,How can I prevent SQL injection in PHP?
+711,0,18,143,0,0,datetime vs timestamp?
+544,0,23,0,19,0,How should I ethically approach user password storage for later plaintext retrieval?
+370,0,19,128,0,0,SQLite vs MySQL [closed]
+341,0,8,0,15,0,Why shouldnt I use mysql_* functions in PHP?
+306,0,11,0,72,0,When to use MongoDB or other document oriented database systems?
+299,20,0,0,99,0,MyISAM versus InnoDB
+244,0,32,256,0,0,How do I quickly rename a mysql database (change schema name)?
+238,0,9,149,0,0,Which MySQL Datatype to use for storing boolean values?
+237,0,4,112,0,0,Can I concatenate multiple MySQL rows into one field?
+225,0,18,274,0,0,How do you set a default value for a MySQL Datetime column?
+207,0,9,107,0,0,What is the best collation to use for MySQL (with PHP)
+206,0,21,0,95,0,Compare two MySQL databases [closed]
+192,0,7,171,0,0,“INSERT IGNORE” vs “INSERT … ON DUPLICATE KEY UPDATE”
+186,0,28,151,0,0,What is the best MySQL Client Application for Windows [closed]
+182,0,8,126,0,0,How to insert if not exists\' in MySQL?
+181,0,14,143,0,0,How to output MySQL query results in csv format?
+180,0,4,0,69,0,MySQL: Large VARCHAR vs. TEXT?
+179,0,19,151,0,0,Find duplicate records in MySQL
+176,0,7,131,0,0,MySQL Error 1153 - Got a packet bigger than max_allowed_packet\' bytes
+168,0,6,120,0,0,MySQL Query GROUP BY day / month / year
+166,10,0,0,83,0,Using MySQL with Entity Framework
+163,0,8,0,54,0,Comparison of full text search engine - Lucene Sphinx Postgresql, MySQL?
+161,0,5,0,89,0,How to find all the tables in MySQL with specific column names in them?
+160,0,5,0,78,0,How do I specify unique constraint for multiple columns in MySQL?
+157,15,0,0,19,0,Would you recommend PostgreSQL over MySQL? [closed]
+157,25,0,0,0,7,What resources exist for Database performance-tuning?
+155,0,11,0,15,0,UTF-8 all the way through
+154,0,10,0,96,0,INNER JOIN ON vs WHERE clause
+153,0,5,122,0,0,How to shrink/purge ibdata1 file in MySQL
+147,0,13,242,0,0,Format MySQL datetime with PHP
+146,0,8,0,73,0,How to get UTF-8 working in java webapps?
+143,0,11,0,0,6,First-time database design: am I overengineering?
+140,7,0,0,81,0,How do I connect to a MySQL Database in Python?
+139,2,0,0,47,0,Differences between INDEX PRIMARY UNIQUE, FULLTEXT in MySQL?
+133,0,16,0,91,0,Error installing mysql2: Failed to build gem native extension
+132,4,0,175,0,0,MySQL copy/duplicate database [closed]
+130,0,4,0,30,0,Whats the difference between utf8_general_ci and utf8_unicode_ci
+130,0,9,0,68,0,Retrieving the last record in each group
+129,0,1,0,49,0,Skip certain tables with mysqldump
+128,0,3,104,0,0,MySQL: @variable vs. variable. Whats the difference?
+128,0,12,0,68,0,What is the ideal data type to use when storing latitude / longitudes in a MySQL database?
+122,0,10,0,0,10,“where 1=1” statement [duplicate]
+120,0,10,0,84,0,Mysql error 1093 - Cant specify target table for update in FROM clause
+118,0,6,0,92,0,How to do a regular expression replace in MySQL?
+117,16,0,0,52,0,Library not loaded: libmysqlclient.16.dylib error when trying to run rails server\' on OS X 10.6 with mysql2 gem
+115,0,8,101,0,0,List of Stored Procedures/Functions Mysql Command Line
+115,0,4,0,40,0,Is there a Sqlite equivalent to MySQLs DESCRIBE [table]?
+113,0,5,0,28,0,Choosing a stand-alone full-text search server: Sphinx or SOLR? [closed]
+110,0,14,0,0,9,How do you manage databases in development test and production?
+109,0,10,0,54,0,Join vs. subquery
+108,0,5,139,0,0,MySQL IF\' in \'SELECT\' statement
+107,0,9,0,79,0,Run MySQLDump without Locking Tables
+107,0,2,0,45,0,UTF-8: General? Bin? Unicode?
+106,0,7,0,69,0,How can I check MySQL engine type for a specific table?
+105,0,13,0,34,0,Subqueries vs joins
+103,0,10,0,50,0,Simulating group_concat MySQL function in Microsoft SQL Server 2005?
+101,8,0,0,74,0,How do I see what character set a database / table / column is in MySQL?
+101,0,7,0,74,0,Getting “Error loading MySQLdb module: No module named MySQLdb” - have tried previously posted solutions
+100,0,13,0,38,0,MySQL Diff Tool [closed]
+99,0,12,101,0,0,JSON encode MySQL results
+97,0,4,0,71,0,How to show the last queries executed on MySQL?
+97,0,18,104,0,0,mysql_fetch_array() expects parameter 1 to be resource boolean given in select
+95,0,5,0,75,0,PHP + MySQL transactions examples
+94,0,2,0,36,0,Installing specific package versions with Pip
+91,0,9,0,0,4,PHP and MySQL - how to avoid password in source code? [duplicate]
+90,9,0,0,84,0,change mysql default character set to UTF8 in my.cnf?
+90,10,0,0,31,0,MySQL - force not to use cache for testing speed of query
+90,0,13,135,0,0,Easiest way to activate PHP and MySQL on Mac OS 10.6 (Snow Leopard) 10.7 (Lion) 10.8 (Mountain Lion)?
+90,0,9,0,40,0,How big can a MySQL database get before performance starts to degrade
+89,0,5,0,32,0,Which ORM should I use for Node.js and MySQL? [closed]
+88,0,19,0,0,8,Why isnt PostgreSQL as widespread as MySQL? [closed]
+88,0,4,0,56,0,Best Data Type for Currency
+87,0,20,0,18,0,Mechanisms for tracking DB schema changes [closed]
+86,0,5,0,73,0,How to get a list of MySQL user accounts
+85,0,8,0,64,0,brew install mysql on mac os
+85,0,7,0,36,0,MySQL Great Circle Distance (Haversine formula)
+85,0,29,0,67,0,Select all columns except one in MySQL?
+85,0,17,0,59,0,Quick easy way to migrate SQLite3 to MySQL?
+85,0,2,0,21,0,How to get the max of two values in MySQL?
+85,0,8,0,31,0,Best database field type for a URL
+83,0,9,0,52,0,Finding duplicate values in MySQL
+83,0,4,0,66,0,How do I modify a MySQL column to allow NULL?
+83,0,20,0,30,0,Good tool to visualise database schema? [closed]
+81,0,4,0,67,0,UPDATE multiple tables in MySQL using LEFT JOIN
+80,0,19,117,0,0,Create a CSV File for a user in PHP
+79,0,11,0,78,0,Auto Generate Database Diagram MySQL
+79,0,13,0,78,0,Getting “Cant connect…through socket \'/tmp/mysql\'” when installing MySQL on Mac OS X 10.6 with Homebrew
+78,0,3,0,16,0,Storing a hashed password (Bcrypt) in a Database - type/length of column?
+77,0,9,0,64,0,How can I view live MySQL queries?
+76,0,3,0,65,0,every derived table must have its own alias
+76,0,4,0,61,0,php/MySQL insert row then get id\'
+75,0,5,0,0,7,How can an SQL query return data from multiple tables [closed]
+75,0,21,0,0,3,When do you know its time to rewrite an application
+75,14,0,0,55,0,MySQL for Python in Windows
+75,0,9,0,56,0,MySQL: what data type to use for hashed password field and what length?
+75,0,9,0,51,0,Best way to test if a row exists in a MySQL table
+74,0,8,0,64,0,SQL Select only rows with Max Value on a Column
+74,0,11,0,39,0,MySQL vs PostgreSQL for Web Applications [closed]
+74,0,1,0,25,0,How do I update if exists insert if not (aka upsert or merge) in MySQL?

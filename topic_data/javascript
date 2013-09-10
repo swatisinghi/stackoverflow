@@ -1,0 +1,100 @@
+1786,0,52,630,0,0,How can I get query string values?
+1774,0,35,235,0,0,How do JavaScript closures work?
+1734,0,7,235,0,0,What does “use strict” do in JavaScript and what is the reasoning behind it?
+1588,0,17,798,0,0,How can I make a redirect page in jQuery/JavaScript?
+1360,0,15,957,0,0,Method like String.contains() in JavaScript
+1269,2,0,282,0,0,How do I get started with Node.js
+1219,40,0,686,0,0,Href attribute for JavaScript links: “#” or “javascript:void(0)”?
+1189,0,34,310,0,0,Most efficient way to clone an object?
+1174,0,22,195,0,0,Does it matter which equals operator (== vs ===) I use in JavaScript comparisons?
+1113,0,4,111,0,0,How do I “think in AngularJS” if I have a jQuery background?
+1089,0,27,754,0,0,Check checkbox checked property using jQuery
+1038,0,16,181,0,0,var functionName = function() {} vs function functionName() {}
+1035,0,24,689,0,0,How do I check a checkbox with jQuery or JavaScript?
+945,0,24,422,0,0,How to include a JavaScript file in another JavaScript file?
+927,0,14,453,0,0,How do you get a timestamp in JavaScript?
+841,0,4,213,0,0,How to remove a property from a javascript object
+815,0,17,339,0,0,Detecting an undefined object property in JavaScript
+812,0,19,467,0,0,array.contains(obj) in JavaScript
+812,0,18,127,0,0,Can I comment a JSON file?
+799,0,11,143,0,0,Knockout.js vs Backbone.js? [closed]
+788,0,8,188,0,0,event.preventDefault() vs. return false
+779,0,29,638,0,0,Validate numbers in JavaScript - IsNumeric()
+771,0,17,475,0,0,Add table row in jQuery
+754,0,25,181,0,0,How to create a GUID / UUID in Javascript?
+732,22,0,103,0,0,Is Safari on iOS 6 caching $.ajax results?
+706,0,7,376,0,0,How to encode a URL in JavaScript?
+700,0,4,0,84,0,Why does Google prepend while(1); to their JSON responses?
+679,0,8,0,66,0,How to decide when to use NodeJS?
+652,18,0,365,0,0,How to copy to the clipboard in JavaScript?
+640,0,20,138,0,0,JavaScript unit test tools for TDD [closed]
+614,0,5,122,0,0,What is the difference between call and apply?
+597,0,4,0,41,0,Why does parseInt(1/0 19) return 18?
+585,0,16,630,0,0,Change an elements CSS class with JavaScript
+585,0,6,0,86,0,.prop() vs .attr()
+567,0,28,312,0,0,Validate email address in Javascript?
+554,21,0,200,0,0,Capitalize the first letter of string in JavaScript
+541,0,18,399,0,0,How do I trim a string in JavaScript?
+535,0,8,0,63,0,Can you explain why ++[[]][+[]]+[+[]] = “10”?
+528,0,8,169,0,0,Convert JavaScript String to be all lower case?
+524,0,8,257,0,0,Appending to array
+522,0,24,379,0,0,How do you check for an empty string in JavaScript?
+517,0,15,517,0,0,jQuery get specific option tag text
+515,0,4,0,37,0,Why arent ◎ܫ◎ and ☺ valid JavaScript variable names?
+514,0,10,382,0,0,Get selected text from dropdownlist using jQuery
+496,0,3,0,44,0,How does Trello access the users clipboard?
+496,0,7,137,0,0,Abort Ajax requests using jQuery
+485,0,11,0,80,0,Difference between using var and not using var in JavaScript
+485,0,3,454,0,0,Get current URL with JavaScript?
+484,0,26,627,0,0,Formatting a date in JavaScript
+480,0,8,390,0,0,Serializing to JSON in jQuery
+460,0,31,292,0,0,JavaScript equivalent to printf/string.format
+459,0,20,522,0,0,How to get the current URL in jQuery?
+451,0,33,166,0,0,How to detect a click outside an element?
+437,0,14,359,0,0,JavaScript Array Delete Elements
+433,0,8,0,46,0,What is the new\' keyword in JavaScript?
+433,0,9,122,0,0,JavaScript Variable Scope
+433,0,11,0,20,0,Is the recommendation to include CSS before JavaScript invalid?
+428,0,3,189,0,0,Checking if an associative array key exists in Javascript
+426,0,8,133,0,0,How does JavaScript .prototype work?
+425,0,12,229,0,0,Javascript StartsWith
+425,0,8,159,0,0,Storing Objects in HTML5 localStorage
+413,0,5,0,33,0,What is the explanation for these bizarre JavaScript behaviours mentioned in the Wat\' talk for CodeMash 2012?
+411,0,6,0,58,0,What is JSONP all about?
+404,0,8,0,37,0,Why dont self-closing script tags work?
+403,0,7,110,0,0,Best practice: escape or encodeURI / encodeURIComponent
+392,28,0,0,31,0,Current commonly accepted best practices around code organization in JavaScript [closed]
+391,0,16,177,0,0,Why is using “for…in” with array iteration such a bad idea?
+385,0,21,251,0,0,What is the best way to add options to a select from an array with jQuery?
+384,0,13,302,0,0,Why is null an object and whats the difference compared to undefined
+380,0,20,404,0,0,JavaScript post request like a form submit
+368,0,15,231,0,0,Length of Javascript Object (ie. Associative Array)
+367,0,15,124,0,0,When is a CDATA section necessary within a script tag?
+366,0,15,150,0,0,How to debug Javascript/jQuery event bindings with FireBug (or similar tool)
+365,0,9,218,0,0,How to empty an array in JavaScript?
+362,0,11,197,0,0,How do I get the name of an objects type in JavaScript?
+362,0,26,0,87,0,When to Use Double or Single Quotes in JavaScript
+355,0,13,118,0,0,Enums in JavaScript?
+353,0,27,135,0,0,Graph visualization code in JavaScript?
+351,15,0,371,0,0,Loop through array in JavaScript
+350,0,17,176,0,0,Javascript Namespace Declaration [closed]
+344,0,19,143,0,0,Creating multiline strings in JavaScript
+340,0,18,197,0,0,Preloading images with jQuery
+340,0,33,222,0,0,How can I convert a string to boolean in JavaScript?
+339,0,3,187,0,0,Set a default parameter value for a JavaScript function [duplicate]
+328,0,16,148,0,0,How to convert decimal to hex in JavaScript?
+328,0,14,156,0,0,Modify the URL without reloading the page
+328,0,28,143,0,0,Most elegant way to clone a JavaScript object
+326,0,16,124,0,0,endsWith in javascript
+322,0,7,171,0,0,How can I check whether a variable is defined in JavaScript?
+321,0,18,0,34,0,What is the !! (not not) operator in JavaScript?
+319,27,0,0,18,0,Is there a better way of writing v = (v == 0 ? 1 : 0);
+318,0,3,0,63,0,Databinding in angularjs
+318,0,13,401,0,0,Trigger a button click with JavaScript on the Enter key in a text box
+316,0,9,331,0,0,Best way to find an item in a JavaScript array? [duplicate]
+311,21,0,0,46,0,Detect iPad Mini in HTML5
+308,0,16,154,0,0,Resizing an iframe based on content
+306,0,12,0,53,0,Is JavaScript s “new” Keyword Considered Harmful? [closed]
+305,0,18,201,0,0,JavaScript for…in vs for
+304,0,23,105,0,0,Are there constants in Javascript?
+304,0,28,0,51,0,Why does everyone like jQuery more than prototype/script.aculo.us or MooTools or whatever? [closed]

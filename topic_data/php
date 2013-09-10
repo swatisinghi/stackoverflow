@@ -1,0 +1,100 @@
+1810,0,28,257,0,0,How can I prevent SQL injection in PHP?
+917,0,45,266,0,0,Using a regular expression to validate an email address
+840,0,5,0,78,0,Reference - What does this symbol mean in PHP?
+671,0,30,0,98,0,How do you parse and process HTML/XML in PHP?
+591,0,14,243,0,0,When to use self vs $this?
+544,0,23,0,19,0,How should I ethically approach user password storage for later plaintext retrieval?
+481,0,3,0,68,0,How foreach actually works
+437,0,7,0,99,0,How do you use bcrypt for hashing passwords in PHP?
+390,0,10,0,80,0,Secure hash and salt for PHP passwords
+384,0,15,137,0,0,Simple “Long Polling” example code?
+382,0,6,198,0,0,How to get thumbnail of YouTube video link using YouTube API?
+357,0,22,115,0,0,PHP and Enums
+351,0,26,194,0,0,Convert HTML + CSS to PDF with PHP?
+347,0,11,331,0,0,Delete an element from an array
+341,0,8,0,15,0,Why shouldnt I use mysql_* functions in PHP?
+340,0,7,181,0,0,correct HTTP header for json file
+318,0,18,182,0,0,PHP startsWith() and endsWith() functions
+307,0,11,112,0,0,Whats the best method for sanitizing user input with PHP?
+300,0,11,0,18,0,Why doesnt this code simply print letters A to Z?
+292,0,10,0,51,0,Headers already sent by PHP
+281,0,7,151,0,0,What is stdClass in PHP?
+276,0,5,217,0,0,How do I expire a PHP session after 30 minutes?
+276,0,13,0,66,0,Deploy a project using Git push
+259,10,0,0,0,10,PHP tutorial that is security- accuracy- and maintainability-conscious? [closed]
+253,0,23,0,59,0,Are PHP short tags acceptable to use?
+247,0,11,284,0,0,How to check if a string contains specific words?
+234,0,2,0,76,0,PHP detecting request type (GET POST PUT or DELETE)
+222,4,0,100,0,0,What is thread safe or non thread safe in PHP
+217,0,11,109,0,0,How should I choose an authentication library for CodeIgniter?
+215,0,12,0,46,0,Is there a static code analyzer [like Lint] for PHP files?
+212,0,22,263,0,0,How to calculate the difference between two dates using PHP?
+207,0,9,107,0,0,What is the best collation to use for MySQL (with PHP)
+189,0,23,0,11,0,Tactics for using PHP in a high-load site
+186,0,14,0,50,0,Preferred method to store PHP arrays (json_encode vs serialize)
+183,0,6,0,44,0,Cant use method return value in write context
+182,0,8,126,0,0,How to insert if not exists\' in MySQL?
+179,0,9,0,22,0,I never really understood: what is CGI?
+172,0,7,109,0,0,How to extract a file extension in PHP?
+172,14,0,0,94,0,How do I catch a PHP Fatal Error
+169,0,34,0,47,0,PHP Arrays: A good way to check if an array is associative or sequential? [closed]
+168,15,0,104,0,0,Website screenshots using PHP
+167,0,5,100,0,0,Sort multidimensional Array by Value (2) [duplicate]
+159,0,7,0,49,0,How to create a simple Hello World\' module in Magento?
+157,0,21,146,0,0,Get first element of an array
+156,0,11,254,0,0,Send email using GMail SMTP server from PHP page
+155,0,5,0,21,0,How should a model be structured in MVC?
+155,0,2,0,0,7,In PHP why does &lt;/script&gt; not show a parse error?
+155,0,11,0,15,0,UTF-8 all the way through
+152,0,13,0,98,0,Pass a PHP string to a Javascript variable (and escape newlines)
+151,0,17,0,20,0,What is the best way to stop people hacking the PHP-based highscore table of a Flash game
+149,0,19,0,0,4,Cached PHP generated Thumbnails load slow: How to find problem/solution from Waterfall graphs?
+148,0,15,0,61,0,When should I use require_once vs include?
+147,36,0,0,23,0,Unexpected results when working with very big integers on interpreted languages
+147,0,13,242,0,0,Format MySQL datetime with PHP
+145,0,16,0,47,0,How to secure database passwords in PHP?
+144,0,3,0,43,0,What does PHP keyword var\' do?
+143,0,15,396,0,0,PHP ToString() equivalent
+143,0,9,0,65,0,Get first key in a (possibly) associative array?
+141,0,7,0,66,0,HTTP_HOST vs. SERVER_NAME
+141,0,0,0,46,0,Robust and Mature HTML Parser for PHP [duplicate]
+140,0,28,0,56,0,How do you debug PHP scripts? [closed]
+139,21,0,0,10,0,Reference - What does this error mean in PHP?
+136,0,5,0,0,5,Difference between “!==” and “==!” [closed]
+136,0,7,0,31,0,Are PDO prepared statements sufficient to prevent SQL injection?
+136,0,5,0,50,0,What is the use of @ symbol in php?
+136,10,0,0,27,0,PHP PDO: Can I bind an array to an IN() condition?
+135,0,11,162,0,0,How do I use PHP to get the current year?
+133,0,4,0,60,0,Using Memcache vs Memcached with PHP
+131,0,9,0,39,0,define() vs const
+130,0,8,0,49,0,PHP - urlencode vs rawurlencode?
+129,0,10,0,22,0,How to implement unit testing in PHP? [closed]
+126,0,8,210,0,0,Saving image from PHP URL using PHP
+125,0,8,0,43,0,PHP: Public Private Protected
+125,0,6,0,0,6,Convert PHP closing tag into comment
+124,0,49,0,51,0,Whats the best way to separate PHP Code and HTML? [closed]
+123,0,8,0,12,0,Best way to allow plugins for a PHP application
+122,0,5,0,59,0,Is there a function to make a copy of a PHP array to another?
+122,0,6,0,13,0,Setting up a deployment / build / CI cycle for PHP projects
+116,0,8,0,32,0,PHPDoc type hinting for array of objects?
+116,0,15,0,96,0,When do I use the PHP constant “PHP_EOL”?
+112,0,11,0,62,0,Best Framework for PHP and creation of RESTful based web services [closed]
+110,6,0,0,30,0,what are the differences in die() and exit() in PHP?
+109,0,2,299,0,0,Capture all of the forms data and submit it to a PHP script - jQuery Ajax POST example
+109,0,8,0,46,0,What is a python equivalent of PHPs var_dump()
+108,0,9,153,0,0,Facebook API - How do I get a facebook users profile image through the FB api (without requiring the user to Allow app)
+107,0,11,322,0,0,Converting an integer to a string in PHP
+106,0,11,0,20,0,Doctrine2: Best way to handle many-to-many with extra columns in reference table
+105,0,4,0,15,0,How does this giant regex work?
+104,0,22,0,30,0,How do you implement a good profanity filter? [closed]
+104,0,15,0,57,0,Java: function for arrays like PHPs join()?
+104,0,10,0,0,3,Why are the built in functions in PHP named so randomly? [closed]
+103,0,11,0,0,10,How Is PHP Done the Right Way? [closed]
+101,10,0,270,0,0,Get current date and time in PHP
+101,0,20,0,93,0,Detect encoding and make everything UTF-8
+101,0,7,0,43,0,htmlentities vs htmlspecialchars
+101,0,10,0,15,0,What is the most accurate way to retrieve a users correct IP address in PHP?
+99,0,12,101,0,0,JSON encode MySQL results
+99,5,0,0,29,0,How can I store my users passwords safely?
+98,0,8,0,69,0,Javascript Equivalent to PHP Explode()
+98,21,0,0,0,9,How do I prevent site scraping?

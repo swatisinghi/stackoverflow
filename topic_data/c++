@@ -1,0 +1,100 @@
+5416,0,13,280,0,0,Why is processing a sorted array faster than an unsorted array?
+3195,52,0,409,0,0,The Definitive C++ Book Guide and List
+2303,0,18,156,0,0,What is the name of this operator: “--&gt;”?
+1211,0,18,123,0,0,Cycles in family tree software
+781,0,10,118,0,0,Why is one loop so much slower than two loops?
+725,0,42,563,0,0,Splitting a string in C++
+682,0,3,0,75,0,Why does changing 0.1f to 0 slow down performance by 10x?
+599,0,14,0,49,0,Is &lt; faster than &lt;=? [closed]
+583,0,21,166,0,0,What can I use to profile C++ code in Linux? [closed]
+550,0,10,0,29,0,In C arrays why is this true? a[5] == 5[a]
+549,0,8,115,0,0,Regular cast vs. static_cast vs. dynamic_cast
+513,0,3,115,0,0,When should static_cast dynamic_cast and reinterpret_cast be used?
+511,0,7,164,0,0,What does the explicit keyword in C++ mean?
+505,0,20,201,0,0,How do you set clear and toggle a single bit in C?
+503,0,6,0,40,0,What is The Rule of Three?
+500,0,13,0,34,0,Algorithm improvement for Coca-Cola can shape recognition
+498,6,0,175,0,0,Operator overloading
+485,18,0,170,0,0,What are the differences between pointer variable and reference variable in C++?
+468,0,5,0,32,0,C++11 introduced a standardized memory model. What does it mean? And how is it going to affect C++ programming?
+455,0,2,0,46,0,What is the copy-and-swap idiom?
+433,0,3,0,55,0,Why is my program slow when looping over exactly 8192 elements?
+357,0,11,0,54,0,Why is reading lines from stdin much slower in C++ than Python?
+339,0,32,0,24,0,What are the barriers to understanding pointers and what can be done to overcome them?
+338,0,15,0,18,0,Why should `new` be used as little as possible?
+338,0,5,0,28,0,Do the parentheses after the type name make a difference with new?
+335,0,15,0,23,0,Can code that is valid in both C and C++ produce different behavior when compiled in each language?
+308,7,0,0,16,0,What are rvalues lvalues xvalues, glvalues, and prvalues?
+307,0,11,174,0,0,How do you declare an interface in C++?
+307,0,15,110,0,0,Vim and Ctags tips and tricks [closed]
+303,0,19,0,81,0,Why is “using namespace std;” considered bad practice?
+298,0,22,0,31,0,Which is better option to use for dividing an integer number by 2?
+294,0,7,0,58,0,What are the rules about using an underscore in a C++ identifier?
+294,0,4,0,20,0,Undefined Behavior and Sequence Points
+285,13,0,0,46,0,What is the difference between #include &lt;filename&gt; and #include “filename”?
+280,12,0,0,82,0,std::wstring VS std::string
+271,0,4,0,32,0,how to achieve 4 FLOPs per cycle
+265,0,10,0,34,0,What is move semantics?
+264,14,0,0,18,0,How many levels of pointers can we have?
+253,0,8,0,62,0,What is a smart pointer and when should I use one?
+253,0,5,0,60,0,What are POD types in C++?
+244,0,22,142,0,0,What is the equivalent of the C++ Pair&lt;LR&gt; in Java?
+240,0,17,109,0,0,Can a local variables memory be accessed outside its scope? [duplicate]
+238,0,21,0,12,0,Whats the purpose of using { … } for a single line?
+233,0,9,0,21,0,Do-While and if-else statements in C/C++ macros
+231,19,0,0,22,0,Is C++ context-free or context-sensitive?
+231,0,12,0,0,8,Why should I not wrap every block in “try”-“catch”?
+226,0,21,0,47,0,Why cant variables be declared in a switch statement?
+222,0,9,0,0,10,Concept behind these four lines of tricky C++ code
+221,0,7,0,79,0,When to use virtual destructors?
+221,0,17,0,22,0,How can I know which parts in the code are never used?
+220,0,6,125,0,0,Difference between struct\' and \'typedef struct\' in C++?
+220,0,13,0,19,0,Where do I find the current C or C++ standard documents?
+218,0,14,0,0,10,int a[] = {12}; Weird comma allowed. Any particular reason?
+218,0,7,0,80,0,In C++ source what is the effect of extern “C”?
+217,0,12,0,97,0,c++ call constructor from constructor
+215,0,5,0,0,6,Is 0 a decimal literal or an octal literal?
+214,0,5,178,0,0,Convert std::string to const char* or char*
+213,22,0,396,0,0,size of int long etc
+207,0,3,0,17,0,Where and why do I have to put the “template” and “typename” keywords?
+204,0,4,0,0,5,Fastest way in C to determine if an integer is between two integers (inclusive) with known sets of values
+203,0,12,0,30,0,Why does C++ compilation take so long?
+202,0,24,0,82,0,How to generate a stacktrace when my gcc C++ app crashes
+199,0,22,0,18,0,How to learn proper C++? [closed]
+198,0,14,0,44,0,What open source C++ static analysis tools are available? [closed]
+194,0,35,0,16,0,What to do about a 11000 lines C++ source file?
+190,0,6,0,0,8,What is “cache-friendly” code?
+188,0,24,0,45,0,C++ Which is faster: Stack allocation or Heap allocation
+187,0,13,0,16,0,What are the differences between Generics in C# and Java… and Templates in C++?
+186,0,14,0,94,0,C++ Functors - and their uses
+184,0,8,0,0,10,What is Linux’s native GUI API?
+180,0,3,0,29,0,What is a lambda expression in C++11?
+180,11,0,0,39,0,What is the slicing problem in C++?
+179,0,9,0,37,0,Why can templates only be implemented in the header file?
+179,0,8,0,46,0,Unnamed/anonymous namespaces vs. static functions
+176,0,14,0,16,0,What are all the common undefined behaviour that a C++ programmer should know about? [closed]
+175,0,18,0,55,0,Programmatically find the number of cores on a machine
+175,26,0,0,68,0,Best way to detect integer overflow in C/C++
+173,0,5,0,28,0,How do I use arrays in C++?
+173,0,8,0,14,0,Are the days of passing const std::string &amp; as a parameter over?
+171,0,10,101,0,0,How to use Boost in Visual Studio 2010
+171,0,12,0,52,0,Does the mutable\' keyword have any purpose other than allowing the variable to be modified by a const function?
+170,0,8,0,37,0,What Does {0} Mean in C?
+167,3,0,0,0,4,What do single quotes do in C++ when used on multiple characters?
+166,15,0,109,0,0,Whats the best way to trim std::string
+166,4,0,0,11,0,(-2147483648&gt; 0) returns true in C++?
+166,0,18,0,56,0,When should you use a class vs a struct in C++?
+164,0,6,174,0,0,C++ superclass constructor calling rules
+164,0,6,0,65,0,unsigned int vs. size_t
+163,0,4,0,0,5,What is this smiley-with-beard expression: “&lt;:]{%&gt;”?
+162,0,25,172,0,0,How do I tokenize a string in C++?
+161,0,17,0,30,0,What is the difference between a definition and a declaration?
+160,0,13,0,11,0,Whats the rationale for null terminated strings?
+160,0,10,0,32,0,When to use forward declaration?
+159,21,0,155,0,0,C++ concatenate string and int
+159,0,19,124,0,0,Case insensitive string comparison in C++
+159,0,3,103,0,0,Debugging with command-line parameters in Visual Studio
+159,0,6,0,0,9,Pretty-print C++ STL containers
+156,0,7,0,21,0,Why isnt sizeof for a struct equal to the sum of sizeof of each member?
+153,0,13,0,17,0,Why does C++ not have reflection?
+151,0,2,0,0,5,What is &amp;&amp;&amp; operation in C

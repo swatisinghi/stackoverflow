@@ -1,0 +1,100 @@
+2051,0,19,586,0,0,Testing if something is hidden with jQuery
+1786,0,52,630,0,0,How can I get query string values?
+1588,0,17,798,0,0,How can I make a redirect page in jQuery/JavaScript?
+1113,0,4,111,0,0,How do I “think in AngularJS” if I have a jQuery background?
+1089,0,27,754,0,0,Check checkbox checked property using jQuery
+1035,0,24,689,0,0,How do I check a checkbox with jQuery or JavaScript?
+968,0,9,743,0,0,$(this) selector and children?
+790,0,30,238,0,0,How to format a JSON date?
+788,0,8,188,0,0,event.preventDefault() vs. return false
+771,0,17,475,0,0,Add table row in jQuery
+723,16,0,423,0,0,How can I upload files asynchronously with jQuery?
+643,0,18,237,0,0,Is there an “exists” function for jQuery?
+599,0,18,415,0,0,How can I get which radio is selected via jQuery?
+585,0,6,0,86,0,.prop() vs .attr()
+550,0,14,0,64,0,Best way to use Googles hosted jQuery but fall back to my hosted library on Google fail
+537,0,5,157,0,0,jQuery multiple class selector
+517,0,15,517,0,0,jQuery get specific option tag text
+514,0,10,382,0,0,Get selected text from dropdownlist using jQuery
+496,0,7,137,0,0,Abort Ajax requests using jQuery
+480,0,8,390,0,0,Serializing to JSON in jQuery
+470,0,12,355,0,0,jQuery document.createElement equivalent?
+459,0,20,522,0,0,How to get the current URL in jQuery?
+451,0,33,166,0,0,How to detect a click outside an element?
+439,0,9,0,91,0,WebKit issues with event.layerX and event.layerY
+421,0,26,206,0,0,Convert form data to JS object with jQuery
+415,0,9,271,0,0,Best way to remove an event handler in jQuery?
+392,28,0,0,31,0,Current commonly accepted best practices around code organization in JavaScript [closed]
+389,0,14,472,0,0,Creating a div element in jQuery
+386,0,23,237,0,0,How to manage a redirect request after a jQuery Ajax call
+385,0,21,251,0,0,What is the best way to add options to a select from an array with jQuery?
+367,0,5,367,0,0,How to change the href for a hyperlink using jQuery
+366,0,15,150,0,0,How to debug Javascript/jQuery event bindings with FireBug (or similar tool)
+358,0,18,137,0,0,Remove close button on jQueryUI Dialog?
+353,0,6,211,0,0,How to move an element into another element?
+353,0,27,135,0,0,Graph visualization code in JavaScript?
+352,0,17,230,0,0,Using jQuery to center a DIV on the screen
+347,0,20,361,0,0,jQuery Event Keypress: Which key was pressed?
+345,0,14,294,0,0,Is there a link to the “latest” jQuery library on Google APIs?
+341,0,5,220,0,0,How to disable/enable an input with jQuery?
+340,0,18,197,0,0,Preloading images with jQuery
+304,0,28,0,51,0,Why does everyone like jQuery more than prototype/script.aculo.us or MooTools or whatever? [closed]
+300,0,12,368,0,0,XmlHttpRequest error: Origin null is not allowed by Access-Control-Allow-Origin
+296,6,0,0,64,0,Can somebody explain jQuery queue to me? [closed]
+292,0,11,274,0,0,How can I refresh a page with jQuery?
+287,0,6,0,94,0,Downloading jQuery CSS from Googles CDN
+284,12,0,413,0,0,jQuery Ajax error handling show custom exception messages
+283,0,41,390,0,0,How to allow only numeric (0-9) in HTML  inputbox using jQuery?
+281,0,21,125,0,0,Get selected elements outer HTML
+280,0,9,238,0,0,jQuery/JavaScript: accessing contents of an iframe
+276,0,3,0,92,0,Are there hosted jQuery UI themes anywhere? [duplicate]
+269,0,10,190,0,0,HTML-encoding in JavaScript/jQuery
+268,0,13,131,0,0,$(document).ready equivalent without jQuery
+261,14,0,166,0,0,What is the best back button jQuery plugin?
+259,0,12,417,0,0,Change the selected value of a drop-down list with jQuery
+258,0,7,162,0,0,How can I get jQuery to perform a synchronous rather than asynchronous AJAX request?
+253,0,12,103,0,0,Check if element is visible after scrolling
+249,0,4,105,0,0,Official way to ask jQuery wait for all images to load before executing something
+244,0,23,188,0,0,Resetting a multi-stage form with jQuery
+243,0,6,259,0,0,How do I get the value of a textbox using jQuery?
+240,0,14,0,81,0,jQuery $(document).ready and UpdatePanels?
+240,13,0,209,0,0,jQuery date/time picker [closed]
+239,0,7,250,0,0,jQuery: How to position one element relative to another?
+237,0,8,241,0,0,How do you remove all the options of a select box and then add one option and select it with jQuery?
+234,0,4,136,0,0,Select &lt;a&gt; which href ends with some string
+234,0,13,142,0,0,jQuery Set Cursor Position in Text Area
+232,0,13,400,0,0,jQuery - setting the selected value of a select control via its text description
+227,0,14,133,0,0,How can you check for a #hash in a URL using JavaScript?
+225,0,3,224,0,0,jQuery scroll To Element
+225,0,9,103,0,0,How to distinguish between left and right mouse click with jQuery
+224,0,15,444,0,0,Change the image source using jQuery
+222,10,0,0,76,0,Can I use jQuery with node.js?
+218,0,6,164,0,0,How to set/unset cookie with jQuery?
+216,0,5,115,0,0,Window.onload vs document.ready ?
+212,0,18,239,0,0,Get URL parameter with jQuery
+212,0,5,143,0,0,jQuery selector regular expressions
+210,0,10,176,0,0,How do I scroll to the top of the page with jQuery?
+207,0,9,273,0,0,Getting the ID of the element that fired an event using jQuery
+207,0,19,297,0,0,Set value of textarea in jQuery
+197,0,3,289,0,0,How to replace innerHTML of a div using jQuery?
+196,19,0,220,0,0,jQuery animate backgroundColor
+195,0,14,217,0,0,Obtain form input fields using jQuery?
+192,0,13,0,78,0,jQuery SVG vs. Raphael
+188,0,1,106,0,0,finding the type of an element using jQuery
+188,0,9,110,0,0,Get Class List for Element with jQuery
+187,0,16,285,0,0,How to show loading spinner in jQuery?
+187,0,10,107,0,0,Which keycode for escape key with jQuery
+186,0,17,170,0,0,Escaping HTML strings with jQuery
+184,0,16,108,0,0,jQuery UI Dialog with ASP.NET button postback
+183,0,17,114,0,0,Use jQuery to hide a DIV when the user clicks outside of it
+183,0,14,125,0,0,Using jQuery to test if an input has focus
+181,0,9,0,58,0,How do I select text nodes with jQuery?
+178,0,18,0,66,0,jQuery templating engines
+177,0,14,287,0,0,How to get image size (height &amp; width) using JavaScript?
+176,0,3,217,0,0,How can I select an element by name with JQuery?
+175,0,10,137,0,0,What is the most efficient way to create HTML elements using jQuery?
+172,0,28,0,19,0,jQuery pitfalls to avoid [closed]
+170,0,9,0,49,0,How can jQuery deferred be used?
+167,0,12,0,71,0,Can I set an unlimited length for maxJsonLength in web.config?
+167,0,5,287,0,0,jQuery get textarea text
+166,0,11,161,0,0,Submitting a form on Enter\' with jQuery?

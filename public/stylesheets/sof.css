@@ -1,0 +1,26 @@
+.pie {
+    width: 48%;
+    float: left
+}
+
+.bar {
+    width: 90%;
+    margin: 0 auto;
+    clear:both;
+}
+
+.pie h5 {
+    text-align: center;
+    font-size: 2.0em;
+}
+
+#topic_rank {
+    width: 25%;
+    margin: 0 auto;
+    font-family: arial;
+}
+
+.bar h5 {
+    text-align: center;
+    font-size: 2.0em;
+}

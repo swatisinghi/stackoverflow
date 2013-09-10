@@ -1,0 +1,100 @@
+5416,0,13,280,0,0,Why is processing a sorted array faster than an unsorted array?
+1920,0,6,169,0,0,Why is subtracting these two times (in 1927) giving a strange result?
+1099,0,8,144,0,0,Proper use cases for Android UserManager.isUserAGoat()?
+1015,0,41,324,0,0,Avoiding “!= null” statements in Java?
+982,0,7,0,44,0,Java += operator
+852,34,0,224,0,0,Is Java “pass-by-reference”?
+827,0,21,408,0,0,Differences between HashMap and Hashtable?
+792,0,22,433,0,0,Read/convert an InputStream to a String
+774,0,41,150,0,0,Creating a memory leak with Java
+737,0,8,0,57,0,Why is char[] preferred over String for passwords?
+724,0,11,0,94,0,Why does this code print “hello world”?
+610,0,7,269,0,0,How to create ArrayList (ArrayList&lt;T&gt;) from array (T[])
+595,0,3,249,0,0,How to use java.net.URLConnection to fire and handle HTTP requests?
+591,0,24,219,0,0,When to use LinkedList&lt;&gt; over ArrayList&lt;&gt;?
+588,0,14,131,0,0,What is a serialVersionUID and why should I use it?
+587,0,7,609,0,0,Java: iterate through HashMap [duplicate]
+547,0,20,300,0,0,A better Java JSON library? [closed]
+542,0,29,102,0,0,Whats the proper way to test a class with private methods using JUnit?
+529,0,7,111,0,0,Must Override a Superclass Method\' Errors after importing a project into Eclipse
+512,0,25,412,0,0,Dealing with “java.lang.OutOfMemoryError: PermGen space” error
+504,23,0,569,0,0,Generating random numbers in a range with Java
+475,0,23,0,59,0,How to avoid Java Code in JSP-Files?
+457,0,28,310,0,0,How do I compare strings in Java?
+431,0,30,0,76,0,Fastest way to determine if an integers square root is an integer
+428,0,16,230,0,0,How can I create an executable jar with dependencies using Maven?
+411,0,14,0,17,0,Uncatchable ChuckNorrisException
+409,0,13,142,0,0,Any good graphing packages for Android? [closed]
+404,0,10,227,0,0,Java - Convert String to enum
+394,0,23,170,0,0,Overriding equals and hashCode in Java
+393,0,11,228,0,0,In Java whats the difference between public default, protected, and private?
+391,0,13,179,0,0,Breaking out of nested loops in Java
+380,0,13,251,0,0,In Java how can I test if an Array contains a certain value?
+369,0,59,0,61,0,Check if at least two out of three booleans are true
+369,0,24,0,79,0,Does finally always execute in Java?
+367,0,13,220,0,0,How do I iterate over each Entry in a Map?
+367,36,0,369,0,0,How to sort a Map&lt;Key Value&gt; on the values in Java?
+362,0,22,160,0,0,“implements Runnable” vs. “extends Thread”
+353,0,12,185,0,0,Java inner class and static nested class
+346,37,0,262,0,0,How to concatenate two arrays in Java?
+344,0,25,0,13,0,Why does this go into an infinite loop?
+337,0,9,280,0,0,Switch Statement with Strings in Java
+326,0,5,124,0,0,How do I call one constructor from another in Java?
+325,0,6,131,0,0,How to discover memory usage of my application in Android
+322,17,0,151,0,0,Can I add jars to maven 2 build classpath without installing them?
+311,0,10,126,0,0,Get current stack trace in Java
+304,0,5,0,18,0,Why does Math.round(0.49999999999999994) return 1
+299,0,30,264,0,0,How to generate a random alpha-numeric string
+297,0,14,311,0,0,Initialization of an ArrayList in one line
+290,0,10,161,0,0,Does Java support default parameter values?
+278,0,22,243,0,0,How to call SOAP web service in Android
+277,0,17,211,0,0,How to create a Java String from the contents of a file
+274,0,20,289,0,0,Generate MD5 hash in Java [duplicate]
+271,0,16,204,0,0,How to Initialise a static Map in Java
+266,0,7,303,0,0,Simplest way to print an array in Java
+266,0,12,111,0,0,Why should I use the Oracle JDK over the OpenJDK or vice-versa? [closed]
+264,0,40,0,68,0,Useful Eclipse Java Code Templates
+262,0,24,0,67,0,What is the Java equivalent for LINQ?
+258,17,0,224,0,0,Setting multiple jars in java classpath
+257,0,7,0,89,0,Comparing Java enum members: == or equals()?
+252,0,8,164,0,0,Left padding integers with zeros in Java
+252,0,9,148,0,0,decompiling DEX into Java sourcecode
+251,0,10,123,0,0,Why does Java have transient variables?
+250,0,4,0,94,0,Why is Java Vector class considered obsolete or deprecated?
+244,0,22,142,0,0,What is the equivalent of the C++ Pair&lt;LR&gt; in Java?
+240,0,9,0,74,0,Why use Gradle instead of Ant or Maven? [closed]
+238,0,40,0,59,0,Things possible in IntelliJ that arent possible in Eclipse? [closed]
+236,0,5,111,0,0,Download a file with Android and showing the progress in a ProgressDialog
+236,0,14,205,0,0,How do I “decompile” Java class files?
+236,0,12,0,21,0,Efficiency of Java “Double Brace Initialization”?
+235,0,15,0,70,0,Whats the best mock framework for Java? [closed]
+232,0,8,181,0,0,Access restriction on class due to restriction on required library rt.jar?
+228,0,4,0,45,0,What is the difference between a soft reference and a weak reference in Java?
+221,0,10,0,71,0,Stacktrace to string in Java
+220,0,5,0,45,0,How do servlets work? Instantiation session variables and multithreading
+219,0,19,130,0,0,Difference between wait() and sleep()
+217,0,16,370,0,0,How to round a number to n decimal places in Java
+216,0,15,0,49,0,Whats the nearest substitute for a function pointer in Java?
+211,0,20,0,87,0,StringBuilder and StringBuffer in Java
+208,0,9,104,0,0,Standard concise way to copy a file in Java?
+203,0,10,174,0,0,Java and SQLite
+201,6,0,204,0,0,Hibernate hbm2ddl.auto possible values and what they do?
+200,0,10,434,0,0,How to convert string to int in Java?
+200,0,12,208,0,0,Sort ArrayList of custom Objects by property
+200,0,9,0,27,0,Accurracy of technical arguments in JWZs 1997 “java sucks” article with today\'s Java? [closed]
+199,0,7,0,81,0,What exactly is Apache Camel?
+198,0,5,0,0,4,try-finally block prevents StackOverflowError
+197,0,6,154,0,0,java.util.Date to XMLGregorianCalendar
+192,0,15,0,91,0,How can I convert my Java program to an .exe file?
+192,0,11,110,0,0,What is reflection and why is it useful?
+190,0,8,0,68,0,Efficient equivalent for removing elements while iterating the Collection
+190,0,9,0,0,7,Why can I throw null in Java? [duplicate]
+190,0,14,157,0,0,Why are you not able to declare a class as static in Java?
+187,0,20,0,94,0,What is an efficient way to implement a singleton pattern in Java?
+187,0,13,0,16,0,What are the differences between Generics in C# and Java… and Templates in C++?
+187,0,6,0,84,0,How do I tell Maven to use the latest version of a dependency?
+186,0,5,0,81,0,Eclipse/Java code completion not working
+186,0,7,0,75,0,What is the difference between JSF Servlet and JSP?
+184,0,16,102,0,0,Java: What is the best way to filter a Collection?
+184,0,8,0,40,0,Why doesnt JUnit provide assertNotEquals methods?
+183,0,4,0,0,5,Why does Java switch on ordinal ints appear to run faster with added cases?
